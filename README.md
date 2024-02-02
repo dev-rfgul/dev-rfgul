@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **HTML,CSS,JS ,React**
 
-- 👨‍💻 All of my projects are available at [https://codeblocks785.netlify.app/frontend](https://codeblocks785.netlify.app/frontend)
+- 👨‍💻 All of my projects are available at [(https://codeblocks785.netlify.app/projects)](https://codeblocks785.netlify.app/projects)]
 
 - 📝 I regularly write articles on [https://codeblocks785.netlify.app/](https://codeblocks785.netlify.app/)
 
