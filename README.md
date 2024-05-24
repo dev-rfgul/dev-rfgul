@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Front End**
+- 👯 I’m looking to collaborate on **Front End Web Develpment Projects**
 
 - 🤝 I’m looking for help with **HTML,CSS,JS ,React**
 
