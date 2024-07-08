@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://twitter.com/rf_gul785" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rf_gul785?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://www.tiktok.com/@dev_rfgul" target="blank">
     <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
