@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Dev RF-GUL</h1>
+<h1 align="center">Hi 👋, I'm Dev RF-GUL (Rao Fahad Gul)</h1>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle" target="blank">
+  <a href="https://twitter.com/rf_gul785" target="blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://www.tiktok.com/@dev_rfgul" target="blank">
     <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://www.youtube.com/channel/your_youtube_channel" target="blank">
+  <a href="https://www.youtube.com/@nextlevelasthetics3851" target="blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/your_channel_id?style=for-the-badge" alt="YouTube" />
   </a>
 </p>
