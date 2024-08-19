@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-rfgul" alt="rf-gul" style="width: 800px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dev-rfgul&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="rf-gul" style="width: 800px;" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/rf_gul785" target="blank">
@@ -109,16 +110,16 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Logo" width="40" height="40"/> 
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-rfgul&show_icons=true&locale=en&layout=compact" alt="rf-gul" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-rfgul&show_icons=true&locale=en&layout=compact&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" alt="rf-gul" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-rfgul&show_icons=true&locale=en" alt="rf-gul" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-rfgul&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=onedark&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" alt="rf-gul" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rfgul&" alt="rf-gul" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rfgul&theme=onedark&cache_seconds=1800" alt="rf-gul" />
 </p>
+
 
