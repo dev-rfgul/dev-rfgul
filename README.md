@@ -3,6 +3,7 @@
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+h3 align="center">Advancing in MERN stack </h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
