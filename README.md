@@ -1,9 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Dev RF-GUL (Rao Fahad Gul)</h1>
-
+<p align="center">
+  <a href="https://stardev.io/developers/dev-rfgul">
+<img src="https://stardev.io/developers/dev-rfgul/badge/languages/country.svg"/>
+  </a>
+</p>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <h3 align="center">Advancing in MERN stack </h3>
+
+
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
